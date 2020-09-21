@@ -160,3 +160,4 @@ IMPORT_EXPORT_USE_TRANSACTIONS = True
 LOGIN_URL = '/login'
 
 #STATIC_ROOT = os.path.join(BASE_DIR, "..", "www", "static")
+
